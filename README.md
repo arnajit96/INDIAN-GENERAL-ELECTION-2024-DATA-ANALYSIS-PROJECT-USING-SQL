@@ -13,3 +13,4 @@ The project addresses key business questions such as the distribution of seats w
 •	Study content distribution based on geographic and demographic factors.
 •	Analyse party-wise and state-wise election outcomes.
 
+## Business Problems and Solutions
