@@ -18,9 +18,13 @@ The project addresses key business questions such as the distribution of seats w
 
 ## Business Problems and Solutions
 --Total Seats
+
+
 ![image](https://github.com/user-attachments/assets/5335c307-71ab-415c-833f-ed2867c5f7dc)
 
 
 Output
+
+
 ![image](https://github.com/user-attachments/assets/7f962036-f760-487a-bc5a-5c56b51c848f)
 
