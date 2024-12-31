@@ -8,9 +8,9 @@ The project addresses key business questions such as the distribution of seats w
 # ER Diagram: -
 # Objective: - 
 
-•	Analyse the seats won by political alliances (NDA, I.N.D.I.A, OTHER).
-•	Identify the top candidates based on EVM votes and the closest races.
-•	Study content distribution based on geographic and demographic factors.
+•	Analyse the seats won by political alliances (NDA, I.N.D.I.A, OTHER). 
+•	Identify the top candidates based on EVM votes and the closest races. 
+•	Study content distribution based on geographic and demographic factors. 
 •	Analyse party-wise and state-wise election outcomes.
 
 ## Business Problems and Solutions
