@@ -126,10 +126,8 @@ Output
 
 
 -- For Others
- 
--- Which party alliance 
--- (NDA, I.N.D.I.A, or OTHER) won the most seats across all states?
 
+ 
 
 ![image](https://github.com/user-attachments/assets/2fd9c213-89a0-45af-a252-e3380bb3fda7)
 
