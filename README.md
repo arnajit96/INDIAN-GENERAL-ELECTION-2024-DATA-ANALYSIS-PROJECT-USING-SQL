@@ -6,6 +6,10 @@ The aim is to extract insights about election results across different constitue
 The project addresses key business questions such as the distribution of seats won by political alliances, vote margins, and the performance of political parties.
 
 # ER Diagram: -
+
+#![Capture](https://github.com/user-attachments/assets/dc6f1d33-7035-450b-b8e7-15042234948d)
+
+
 # Objective: - 
 
 •	Analyse the seats won by political alliances (NDA, I.N.D.I.A, OTHER).
