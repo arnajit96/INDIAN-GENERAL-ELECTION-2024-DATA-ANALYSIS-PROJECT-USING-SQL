@@ -7,7 +7,7 @@ The project addresses key business questions such as the distribution of seats w
 
 # ER Diagram: -
 
-#![Capture](https://github.com/user-attachments/assets/dc6f1d33-7035-450b-b8e7-15042234948d)
+![Capture](https://github.com/user-attachments/assets/dc6f1d33-7035-450b-b8e7-15042234948d)
 
 
 # Objective: - 
